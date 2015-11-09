@@ -1,3 +1,2 @@
 # homework_branches
-salut!
-blablabla
+privet vsem
